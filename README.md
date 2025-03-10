@@ -10,7 +10,7 @@ Tại thư mục dự án có tên **Project_X** > Nhấn chuột phải và ch�
 ![image](https://github.com/user-attachments/assets/79cc8b73-6edb-45c6-bc24-ff64df4b6b16)
 
 > **Bước 1:** Tạo môi trường ảo **.venv** bên trong thư mục **Project_X**:
->> ```bash
+```bash
 python -m venv .venv --prompt="Python3_Env"
 ```
 
