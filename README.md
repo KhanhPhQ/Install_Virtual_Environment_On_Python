@@ -41,8 +41,7 @@ Khởi chạy môi trường ảo **.venv**
 
 ![image](https://github.com/user-attachments/assets/522d06ac-5bf4-4e65-b750-b19e8c8ad979)
 
-**=> Thành công** (Hiện tên môi trường phía trước đường dẫn của thư mục).
-
+> **=> Thành công** (Hiện tên môi trường phía trước đường dẫn của thư mục).
 
 _2. **KHÔNG** khởi chạy VSCode bằng quyền **Administrator**, thì khi chạy lệnh **.venv\Scripts\activate** => **Lỗi (Error)**_
 
