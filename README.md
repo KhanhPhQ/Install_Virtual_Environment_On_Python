@@ -25,7 +25,7 @@ Tại thư mục **Project_X** sẽ có thêm thư mục **.venv** (Môi trườ
 ![image](https://github.com/user-attachments/assets/a8416fd0-894d-49b9-a42c-01183a6573c6)
 
 > **Bước 2:** Kích hoạt môi trường ảo:
-1. Khởi chạy VSCode bằng quyền **Administrator**
+_1. Khởi chạy VSCode bằng quyền **Administrator**_
 
 ![image](https://github.com/user-attachments/assets/e75f643f-0128-4c57-b1d7-8f8f134eb328)
 
@@ -42,9 +42,9 @@ Khởi chạy môi trường ảo **.venv**
 
 **=> Thành công** (Hiện tên môi trường phía trước đường dẫn của thư mục).
 
-> 2. **KHÔNG** khởi chạy VSCode bằng quyền **Administrator**, thì khi chạy lệnh **.venv\Scripts\activate** => **Lỗi (Error)**
 
-Phải chạy trước lệnh bên dưới để thiết lập **Execution Policy**
+_2. **KHÔNG** khởi chạy VSCode bằng quyền **Administrator**, thì khi chạy lệnh **.venv\Scripts\activate** => **Lỗi (Error)**_
+_Phải chạy trước lệnh bên dưới để thiết lập **Execution Policy**_
 ```bash
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 ```
