@@ -6,4 +6,5 @@ Ví dụ: .env, .venv, .Python3_Env, ...
 
 ## Tạo thư mục ảo với Visual Studio Code (VSCode)
 Tại thư mục dự án có tên Project_X
+
 ![image](https://github.com/user-attachments/assets/79cc8b73-6edb-45c6-bc24-ff64df4b6b16)
