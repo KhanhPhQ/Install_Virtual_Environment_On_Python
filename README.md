@@ -53,4 +53,4 @@ Hoặc
 ```bash
 Set-ExecutionPolicy -Scope CurrentUser
 ```
-**=> Tiếp tục chạy lại từ mục 1.**
+> **=> Tiếp tục chạy lại từ mục 1.**
