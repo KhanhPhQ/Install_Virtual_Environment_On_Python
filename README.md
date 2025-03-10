@@ -40,9 +40,10 @@ Khởi chạy môi trường ảo **.venv**
 
 ![image](https://github.com/user-attachments/assets/522d06ac-5bf4-4e65-b750-b19e8c8ad979)
 
-## Thành công.
+**=> Thành công** (Hiện tên môi trường phía trước đường dẫn của thư mục).
 
-> 2. **KHÔNG** khởi chạy VSCode bằng quyền **Administrator**, thì khi chạy lệnh **.venv\Scripts\activate** => Lỗi (Error)
+> 2. **KHÔNG** khởi chạy VSCode bằng quyền **Administrator**, thì khi chạy lệnh **.venv\Scripts\activate** => **Lỗi (Error)**
+
 Phải chạy trước lệnh bên dưới để thiết lập **Execution Policy**
 ```bash
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
