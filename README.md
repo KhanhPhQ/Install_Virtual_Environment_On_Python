@@ -12,5 +12,6 @@ Tại thư mục dự án có tên **Project_X** > Chọn "**Open in Integrated 
 Bước 1: Tạo môi trường ảo **.venv** bên trong thư mục **Project_X**:
 ```bash
 python -m venv .venv --prompt="Python3_Env"
+```
 
 ![image](https://github.com/user-attachments/assets/bc98525a-4941-4878-9638-0fcbb15be13d)
