@@ -25,6 +25,7 @@ Tại thư mục **Project_X** sẽ có thêm thư mục **.venv** (Môi trườ
 ![image](https://github.com/user-attachments/assets/a8416fd0-894d-49b9-a42c-01183a6573c6)
 
 > **Bước 2:** Kích hoạt môi trường ảo:
+
 _1. Khởi chạy VSCode bằng quyền **Administrator**_
 
 ![image](https://github.com/user-attachments/assets/e75f643f-0128-4c57-b1d7-8f8f134eb328)
