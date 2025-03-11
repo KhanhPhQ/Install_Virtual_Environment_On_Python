@@ -1,5 +1,5 @@
 # Install_Virtual_Environment_On_VSCode
-Hướng dẫn cài đặt môi trường ảo trên VSCode.
+Cài đặt môi trường ảo trên VSCode.
 
 # TÊN của thư mục ảo nên có dấu chấm '.' phía trước
 Ví dụ: .env, .venv, .Python3_Env, ...
